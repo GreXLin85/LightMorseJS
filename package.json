@@ -1,0 +1,15 @@
+{
+  "name": "morsejs",
+  "version": "1.0.0",
+  "description": "Lightweight text to morse library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreXLin85",
+  "license": "MIT",
+  "keywords": [
+    "morse",
+    "morsejs"
+  ]
+}
